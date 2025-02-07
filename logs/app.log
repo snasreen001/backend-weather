@@ -1,0 +1,92 @@
+2025-02-05T09:46:16.715Z [error]: Unexpected error: SyntaxError: Unexpected token 'L', ..."   "city":London
+}" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-05T09:47:00.061Z [error]: Unexpected error: SyntaxError: Unexpected token 'L', ..."   "city":London
+}" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-05T09:47:51.104Z [error]: Unexpected error: SyntaxError: Unexpected token 'L', ..."   "city":London
+}" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-05T09:53:22.569Z [error]: Unexpected error: SyntaxError: Expected ',' or '}' after property value in JSON at position 28
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-05T10:01:22.563Z [error]: Unexpected error: SyntaxError: Unexpected token '}', ...""Mumbai"
+}" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-05T10:02:34.738Z [info]: Received weather request for city: london
+2025-02-05T10:02:34.740Z [info]: Fetching weather data for city: london
+2025-02-05T10:02:35.071Z [info]: Weather data for london fetched from API
+2025-02-05T10:13:06.806Z [error]: Unexpected error: SyntaxError: Unexpected token 'L', ..."  "city": London
+  "... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-05T10:24:38.045Z [error]: Unexpected error: SyntaxError: Unexpected token 'L', ..."  "city": London
+  "... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\acer\Desktop\weather-alert-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\acer\Desktop\weather-alert-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-05T11:05:12.743Z [info]: Received weather request for city: london
+2025-02-05T11:05:12.748Z [info]: Fetching weather data for city: london
+2025-02-05T11:05:13.048Z [info]: Weather data for london fetched from API
+2025-02-06T04:53:14.621Z [info]: Received weather request for city: goa
+2025-02-06T04:53:14.625Z [info]: Fetching weather data for city: goa
+2025-02-06T04:53:14.976Z [info]: Weather data for goa fetched from API
